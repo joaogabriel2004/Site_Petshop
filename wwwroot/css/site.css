@@ -1,0 +1,37 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+#sec-banner{
+  background-color: #FF862F;
+}
+
+#sec-about{
+  background-color: white;
+}
+
+#sec-opcoes{
+  margin-top: 2rem;
+  padding-top: 1rem;
+  background-color: #FF862F;
+  padding-bottom: 2rem;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+#mais-vendidos{
+  background-color: white;
+}
